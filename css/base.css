@@ -1,0 +1,24 @@
+/*general*/
+
+#header{
+	font-size: 20px;
+	color: gray;
+	border-style: dotted;
+	margin-bottom: 15px;
+	padding:20px;
+}
+
+
+body {
+	font-family: 'calibri';
+	padding:20px;
+	color: gray;
+
+}
+
+.test_item {
+	background-color: rgb(253,133,136);
+	padding:20px;
+	margin-bottom:10px;
+	border-radius: 5px;
+}
